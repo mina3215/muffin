@@ -1,0 +1,35 @@
+[
+  {
+   "model": "accounts.Prize",
+   "pk": 1,
+   "fields": {
+    "prize_title": "입덕",
+    "prize_content" : "난생 처음으로 배우를 팔로우 하셨군요~"
+   }
+  },
+  {
+    "model": "accounts.Prize",
+    "pk": 2,
+    "fields": {
+     "prize_title": "인생 첫 영화",
+     "prize_content" : "영화...좋아하세요?"
+    }
+   },
+   {
+    "model": "accounts.Prize",
+    "pk": 3,
+    "fields": {
+     "prize_title": "앗! 이럴수가 머핀은 이제 매드 사이언티스트가 장악했습니다?",
+     "prize_content" : "후후훗, 이 사이트는 너무 쉽네요!"
+    }
+   },
+   {
+    "model": "accounts.Prize",
+    "pk": 4,
+    "fields": {
+     "prize_title": "찐팬",
+     "prize_content" : "한 배우를 10번 응원했어요!"
+    }
+   }
+
+ ]

@@ -1,0 +1,82 @@
+[
+ {
+  "model": "movies.Boxoffice",
+  "pk": 1,
+  "fields": {
+   "rank": 1,
+   "movie_id": 385687
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 2,
+  "fields": {
+   "rank": 2,
+   "movie_id": 447365
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 3,
+  "fields": {
+   "rank": 3,
+   "movie_id": 502356
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 4,
+  "fields": {
+   "rank": 4,
+   "movie_id": 955666
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 5,
+  "fields": {
+   "rank": 5,
+   "movie_id": 916224
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 6,
+  "fields": {
+   "rank": 6,
+   "movie_id": 497828
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 7,
+  "fields": {
+   "rank": 7,
+   "movie_id": 636173
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 8,
+  "fields": {
+   "rank": 8,
+   "movie_id": 783675
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 9,
+  "fields": {
+   "rank": 9,
+   "movie_id": 603692
+  }
+ },
+ {
+  "model": "movies.Boxoffice",
+  "pk": 10,
+  "fields": {
+   "rank": 10,
+   "movie_id": 1111319
+  }
+ }
+]

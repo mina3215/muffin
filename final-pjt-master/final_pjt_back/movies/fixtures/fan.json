@@ -1,0 +1,138 @@
+[
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 16,
+  "fields": {
+   "actor_id": 17127,
+   "user_id": 1
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 17,
+  "fields": {
+   "actor_id": 1254630,
+   "user_id": 1
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 19,
+  "fields": {
+   "actor_id": 1299479,
+   "user_id": 1
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 20,
+  "fields": {
+   "actor_id": 1096458,
+   "user_id": 1
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 21,
+  "fields": {
+   "actor_id": 1254630,
+   "user_id": 8
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 22,
+  "fields": {
+   "actor_id": 1096458,
+   "user_id": 8
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 23,
+  "fields": {
+   "actor_id": 1299479,
+   "user_id": 8
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 24,
+  "fields": {
+   "actor_id": 138336,
+   "user_id": 8
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 25,
+  "fields": {
+   "actor_id": 1024395,
+   "user_id": 8
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 26,
+  "fields": {
+   "actor_id": 150125,
+   "user_id": 8
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 28,
+  "fields": {
+   "actor_id": 1254630,
+   "user_id": 2
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 29,
+  "fields": {
+   "actor_id": 1299479,
+   "user_id": 2
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 30,
+  "fields": {
+   "actor_id": 21687,
+   "user_id": 2
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 31,
+  "fields": {
+   "actor_id": 83036,
+   "user_id": 2
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 32,
+  "fields": {
+   "actor_id": 1238592,
+   "user_id": 2
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 33,
+  "fields": {
+   "actor_id": 1096458,
+   "user_id": 2
+  }
+ },
+ {
+  "model": "fan_community.actor_fan",
+  "pk": 34,
+  "fields": {
+   "actor_id": 83036,
+   "user_id": 1
+  }
+ }
+]
